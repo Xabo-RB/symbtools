@@ -80,6 +80,7 @@ https://nbviewer.org/github/TUD-RST/symbtools/tree/master/docs/demo_notebooks/
 Software online:
 https://zenodo.org/record/275073#.YhvLl-jMJPY
 https://bitbucket.org/cvk/pycontroltools/src/master/
+
 https://pypi.org/project/symbtools/#files
 
 Línea donde se calcula el rango:

@@ -71,3 +71,12 @@ or the latest git version::
 
     $ git clone https://github.com/TUD-RST/symbtools.git
 
+Página donde lo encontré:
+https://groups.google.com/g/sympy/c/eWcKd1j3RdA/m/5muBTmkUCgAJ?pli=1
+Guías:
+https://nbviewer.org/github/TUD-RST/symbtools/tree/master/docs/demo_notebooks/
+Software online:
+https://zenodo.org/record/275073#.YhvLl-jMJPY
+https://bitbucket.org/cvk/pycontroltools/src/master/
+Línea donde se calcula el rango:
+https://github.com/cknoll/rst_symbtools/blob/7a2a4dc9eec617d41f9db3591931615272a80af9/symb_tools.py#L2636

@@ -90,3 +90,6 @@ https://github.com/cknoll/rst_symbtools/blob/7a2a4dc9eec617d41f9db3591931615272a
 
 En sympy: 
 https://github.com/sympy/sympy/blob/00d6469eafdd4aac346a0b598184c15f2560dbe5/sympy/matrices/reductions.py#L178
+
+Algoritmo que emplea symbtools:
+https://en.wikipedia.org/wiki/Samuelson%E2%80%93Berkowitz_algorithm
